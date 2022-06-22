@@ -1,0 +1,28 @@
+html {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {padding: 20px;
+    text-align: center;
+    background-image: url(https://i.pinimg.com/originals/f1/49/ae/f149ae5d690277355f74395c20affcd2.jpg);
+    color:greenyellow;
+}
+p {
+    font-weight: 600;
+}
+
+.tag {
+    font-family: monospace;
+    background-color: bisque;
+}
+th, td {
+    border: 2px solid black;   
+}
+tbody{
+    box-sizing:content-box;
+}
+th {
+    background-color: salmon;
+}
+td {
+    background-color: aqua;
+}
